@@ -6,7 +6,7 @@ Following an academic exchange at Imperial College London (Department of Mathema
 
 I worked as a Growth Engineering intern at Noritual Lab, where I was in charge of sourcing and reaching out to influencers at scale across the US and Germany using automated pipelines. 
 
-This led to an open-source anonymised dataset, available here: 
+This led to an open-source anonymised dataset, available here: https://leandrej64.github.io/social-graph/ 
 
 
 ## Education
