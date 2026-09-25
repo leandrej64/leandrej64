@@ -1,21 +1,30 @@
-# Hi, I'm Léandre
+# About me  
 
-Following an academic exchange at Imperial College London and a growth engineering summer internship in Berlin, I will be graduating with an MSc in Quantitative Finance from Ensimag, France, in Mars 2027. 
+Following an academic exchange at Imperial College London (Department of Mathematics) and a summer growth engineering internship in Berlin, I will graduate with an MSc in Quantitative Finance from Ensimag, France, in March 2027. I love math. 
 
-Math is my primary driver.  RISC-V assembly comes a close second.
+## Last internship 
+
+I worked as a Growth Engineering intern at Noritual Lab, where I was in charge of sourcing and reaching out to influencers at scale across the US and Germany using automated pipelines. 
+
+This led to an open-source anonymised dataset, available here: 
 
 
+## Education
+
+Ensimag, MSc Quantitative Finance | Imperial College London, Department of Mathematics | CPGE MP   
 
 
-## Featured Projects
+##  Projects
 
 | Project Name | Type | Stack |
 | :--- | :--- | :--- |
-| **[Snare Synthetizer](https://github.com/ton-lien)** | Personal | Good Ears and a Convolutional Neural Network|
-| **[Companies Scraper](https://github.com/ton-lien)** | Personal | Python, SQL, LLM APIs |
-| **[2026 Quantihack](https://github.com/ton-lien)** | Hackathon | Python, SQL, KDB+ |
-| **[Name of Project 4](https://github.com/ton-lien)** | Professional | R, TensorFlow |
+| **[Snare Drum Synthesizer](https://github.com/leandrej64/snare-drum-synthesizer)** | Personal | Good ears |
+| **[2026 Quantihack](https://github.com/ton-lien)** | Hackathon | Non-Negative Matrix Factorisation, 1D CNN |
+| **[NBA Scores Predictive Modelling](https://github.com/leandrej64/nba-scores-predictive-model)** | Personal | Python, LASSO, Random Forests|
+| **[Social Graph](https://leandrej64.github.io/social-graph/)** | Personal | Postgres, Web scraping|
+
+
 
 ---
 
-📫 **Contact & Links:** [LinkedIn](https://linkedin.com/in/ton-profil) | [Email](mailto:ton-email@example.com)
+**Contact & Links:** [LinkedIn](https://www.linkedin.com/in/leandre-javelot-06600b338/) | [Email](mailto:leandre.javelot@grenoble-inp.org)
