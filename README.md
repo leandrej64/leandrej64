@@ -4,7 +4,7 @@ Following an academic exchange at Imperial College London (Department of Mathema
 
 ## Latest internship 
 
-I worked as a data engineering intern at Noritual Lab, a Berlin-based startup, where I automated influencer sourcing and outreach at scale across the US and Germany. I built web scraping pipelines and deployed them on Google Cloud, turning scattered web data into a structured dataset: essentially the alternative data workflow used in quantitative finance.
+I worked as a data engineering intern at Noritual Lab, a Berlin-based startup, where I automated influencer sourcing and outreach at scale across the US and Germany. I built web scraping pipelines and deployed them on Google Cloud Platform. 
 
 This led to an open-source anonymized dataset, available here: [Social Graph](https://leandrej64.github.io/social-graph/)
 
