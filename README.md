@@ -1,29 +1,31 @@
 # About me  
 
-Following an academic exchange at Imperial College London (Department of Mathematics) and a summer growth engineering internship in Berlin, I will graduate with an MSc in Quantitative Finance from Ensimag, France, in March 2027. I love math. 
+Following an academic exchange at Imperial College London (Department of Mathematics) and a summer data engineering internship in Berlin, I will graduate with an MSc in Quantitative Finance from Ensimag, France, in March 2027. I love math. 
 
-## Last internship 
+## Latest internship 
 
-I worked as a Growth Engineering intern at Noritual Lab, where I was in charge of sourcing and reaching out to influencers at scale across the US and Germany using automated pipelines. 
+I worked as a data engineering intern at Noritual Lab, a Berlin-based startup, where I automated influencer sourcing and outreach at scale across the US and Germany. I built web scraping pipelines and deployed them on Google Cloud, turning scattered web data into a structured dataset: essentially the alternative data workflow used in quantitative finance.
 
-This led to an open-source anonymised dataset, available here: https://leandrej64.github.io/social-graph/ 
+This led to an open-source anonymized dataset, available here: [Social Graph](https://leandrej64.github.io/social-graph/)
 
+## Projects
+
+| Project | Type | Stack | Report |
+| :--- | :--- | :--- | :--- |
+| **[2026 Quantihack](https://github.com/leandrej64/quantihack)** | Hackathon | Non-Negative Matrix Factorization, 1D CNN | [PDF](https://cdn.jsdelivr.net/gh/leandrej64/quantihack@main/report.pdf) |
+| **[NBA Scores Predictive Modeling](https://github.com/leandrej64/nba-scores-predictive-model)** | Personal | LASSO, Random Forests, NumPy, Pandas | [PDF](https://cdn.jsdelivr.net/gh/leandrej64/nba-scores-predictive-model@main/report.pdf) |
+| **[Monte Carlo Pricer](https://github.com/leandrej64/pricer)** | Academic | C++ | — |
+| **[Delta Hedging](https://github.com/leandrej64/delta-hedging)** | Academic (extended) | C# | — |
+| **[Social Graph](https://leandrej64.github.io/social-graph/)** | Internship | Google Cloud SQL, Google Cloud Services, Web scraping | — |
+| **[Snare Drum Synthesizer](https://github.com/leandrej64/snare-drum-synthesizer)** | Personal | Python and good ears | [PDF](https://cdn.jsdelivr.net/gh/leandrej64/snare-drum-synthesizer@main/report.pdf) |
 
 ## Education
 
-Ensimag, MSc Quantitative Finance | Imperial College London, Department of Mathematics | CPGE MP   
-
-
-##  Projects
-
-| Project Link | Type | Stack | Report |
+| School | Program | Dates | Key courses |
 | :--- | :--- | :--- | :--- |
-| **[Social Graph](https://leandrej64.github.io/social-graph/)** | Internship | GCloud SQL, GCloud Services, Web scraping| — |
-| **[2026 Quantihack](https://github.com/leandrej64/quantihack)** | Hackathon | Non-Negative Matrix Factorisation, 1D CNN | [PDF](https://cdn.jsdelivr.net/gh/leandrej64/quantihack@main/report.pdf) |
-| **[NBA Scores Predictive Modelling](https://github.com/leandrej64/nba-scores-predictive-model)** | Personal |LASSO, Random Forests,NumPy, Pandas| [PDF](https://cdn.jsdelivr.net/gh/leandrej64/nba-scores-predictive-model@main/report.pdf) |
-| **[Snare Drum Synthesizer](https://github.com/leandrej64/snare-drum-synthesizer)** | Personal | Python and good ears | [PDF](https://cdn.jsdelivr.net/gh/leandrej64/snare-drum-synthesizer@main/report.pdf) |
-| **[Monte Carlo Pricer](https://github.com/leandrej64/pricer)** | Academic | C++| — |
-| **[Delta Hedging](https://github.com/leandrej64/delta-hedging)** | Academic (extended) | C#| — |
+| **Ensimag** | MSc Quantitative Finance | 2024 – 2027 | Stochastic Control & Portfolio Allocation, Market Microstructure, Dependence Modeling, Time Series Programming Project |
+| **Imperial College London** | Exchange, Department of Mathematics | 2025 – 2026 | Statistical Learning, Time Series Analysis, Stochastic Simulation, Methods for Data Science |
+| **CPGE MP** | Math & Physics preparatory classes | 2022 – 2024 | Analysis, Linear Algebra, Physics |
 
 ---
 
