@@ -16,15 +16,15 @@ Ensimag, MSc Quantitative Finance | Imperial College London, Department of Mathe
 
 ##  Projects
 
-| Project Link | Type | Stack |
-| :--- | :--- | :--- |
-| **[Social Graph](https://leandrej64.github.io/social-graph/)** | Internship | GCloud SQL, GCloud Services, Web scraping|
-| **[2026 Quantihack](https://github.com/leandrej64/quantihack)** | Hackathon | Non-Negative Matrix Factorisation, 1D CNN |
-| **[NBA Scores Predictive Modelling](https://github.com/leandrej64/nba-scores-predictive-model)** | Personal |LASSO, Random Forests,NumPy, Pandas|
-| **[Snare Drum Synthesizer](https://github.com/leandrej64/snare-drum-synthesizer)** | Personal | Python and good ears |
-| **[Monte Carlo Pricer](https://github.com/leandrej64/pricer)** | Academic | C++|
-| **[Delta Hedging](https://github.com/leandrej64/delta-hedging)** | Academic (extended) | C#|
+| Project Link | Type | Stack | Report |
+| :--- | :--- | :--- | :--- |
+| **[Social Graph](https://leandrej64.github.io/social-graph/)** | Internship | GCloud SQL, GCloud Services, Web scraping| — |
+| **[2026 Quantihack](https://github.com/leandrej64/quantihack)** | Hackathon | Non-Negative Matrix Factorisation, 1D CNN | [PDF](https://cdn.jsdelivr.net/gh/leandrej64/quantihack@main/report.pdf) |
+| **[NBA Scores Predictive Modelling](https://github.com/leandrej64/nba-scores-predictive-model)** | Personal |LASSO, Random Forests,NumPy, Pandas| [PDF](https://cdn.jsdelivr.net/gh/leandrej64/nba-scores-predictive-model@main/report.pdf) |
+| **[Snare Drum Synthesizer](https://github.com/leandrej64/snare-drum-synthesizer)** | Personal | Python and good ears | [PDF](https://cdn.jsdelivr.net/gh/leandrej64/snare-drum-synthesizer@main/report.pdf) |
+| **[Monte Carlo Pricer](https://github.com/leandrej64/pricer)** | Academic | C++| — |
+| **[Delta Hedging](https://github.com/leandrej64/delta-hedging)** | Academic (extended) | C#| — |
 
 ---
 
-**Contact & Links:** [LinkedIn](https://www.linkedin.com/in/leandre-javelot-06600b338/) | [Email](mailto:leandre.javelot@grenoble-inp.org)
+**Contact & Links:** [LinkedIn](https://www.linkedin.com/in/leandre-javelot-06600b338/)
